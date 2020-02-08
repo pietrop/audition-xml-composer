@@ -19,16 +19,16 @@ cd, clone the repo, `npm install`
 
 see [`example-usage.js`](./src/example-usage.js) for how to requrie and use the module.
 
-To run the example do `node example-usage.js`
+To run the example do `node src/example-usage.js`
 
 
-When importing the `.fcpxml` sequence in FCPX the media is going to be offline, to re-link the media go to `Files` `->` `Relink  Files` or see 
-[see Re-link offline clips in FCPX, for more details](https://support.apple.com/kb/PH12701?locale=en_US).
+<!-- When importing the `.fcpxml` sequence in FCPX the media is going to be offline, to re-link the media go to `Files` `->` `Relink  Files` or see 
+[see Re-link offline clips in FCPX, for more details](https://support.apple.com/kb/PH12701?locale=en_US). -->
 
 ## Usage - production
 
 ```
-npm install @pietrop/fcpx-xml-composer
+npm install audition-xml-composer
 ```
 
 require or import in your code and see example usage for more details
@@ -37,7 +37,8 @@ require or import in your code and see example usage for more details
 ## System Architecture
 <!-- _High level overview of system architecture_ -->
 
-A function that loop over the json sequence and using string interpolation creates an equivalent FCPX XML. With no dependencies.
+_TBC_
+<!-- A function that loop over the json sequence and using string interpolation creates an equivalent FCPX XML. With no dependencies.
 
 Used the sequence form [the docs - `Listing 1-1  A library with a simple project as FCPXML`](https://developer.apple.com/library/archive/documentation/FinalCutProX/Reference/FinalCutProXXMLFormat/EventsandProjects/EventsandProjects.html) as a starting point.
 
@@ -47,7 +48,7 @@ FCPX seems particularly picky about specifying the correct frame rate for the cl
 
 [DTD errors FCPX reference](https://developer.apple.com/library/archive/documentation/FinalCutProX/Reference/FinalCutProXXMLFormat/FCPXMLDTD/FCPXMLDTD.html)
 
-A Known limitation is that the EDL composer sequence only supports one track, as the EDL format is not multi track. FCPX sequence could allow multiple tracks. But for the current use case with `digital-paper-edit` one track is sufficient. PRs might be considered to extend this module to multi track support.
+A Known limitation is that the EDL composer sequence only supports one track, as the EDL format is not multi track. FCPX sequence could allow multiple tracks. But for the current use case with `digital-paper-edit` one track is sufficient. PRs might be considered to extend this module to multi track support. -->
 
 ## Development env
  <!-- _How to run the development environment_
@@ -72,7 +73,12 @@ _TBC_
 ## Deployment
 <!-- _How to deploy the code/app into test/staging/production_ -->
 
-_TBC - published to npm under `@pietrop/fcpx-xml-composer`_
+
+```
+npm run publish:public
+```
+
+_publishes to npm under `audition-xml-composer`_
 
 
 
@@ -82,4 +88,4 @@ https://www.npmjs.com/package/bmjs-fcpxml
 
 
 ## TODO:
-- [ ] Add support for optional `offset` (in a way supported by FCPX XML) <!-- needs testing with footage from camcorder  -->
+<!-- - [ ] Add support for optional `offset` (in a way supported by FCPX XML) needs testing with footage from camcorder  -->
