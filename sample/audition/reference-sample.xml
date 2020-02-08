@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xmeml version="5">
+  <sequence id="sequence-0">
+    <media>
+      <audio>
+        <format>
+          <samplecharacteristics>
+            <depth>3</depth>
+            <samplerate>8000</samplerate>
+          </samplecharacteristics>
+        </format>
+        <track>
+          <clipitem id="clipitem-0">
+            <masterclipid>master-clip-1</masterclipid>
+            <name>Justin.mp3 - 1 - null</name>
+            <enabled>TRUE</enabled>
+            <duration>956.088</duration>
+            <in>92.63</in>
+            <out>120.56</out>
+            <start>92.63</start>
+            <end>120.56</end>
+            <rate>
+              <timebase>1</timebase>
+            </rate>
+            <file id="file-22">
+              <media>
+                <audio>
+                  <samplecharacteristics>
+                    <depth>3</depth>
+                    <samplerate>8000</samplerate>
+                  </samplecharacteristics>
+                  <channelcount>1</channelcount>
+                </audio>
+              </media>
+              <name>Justin.mp3</name>
+              <duration>956.088</duration>
+              <pathurl>Justin.mp3</pathurl>
+              <rate>
+                <timebase>1</timebase>
+              </rate>
+            </file>
+          </clipitem>
+          <clipitem id="clipitem-1">
+            <masterclipid>master-clip-2</masterclipid>
+            <name>Justin.mp3 - 2 - null</name>
+            <enabled>TRUE</enabled>
+            <duration>956.088</duration>
+            <in>121.43</in>
+            <out>312.05</out>
+            <start>121.43</start>
+            <end>312.05</end>
+            <rate>
+              <timebase>1</timebase>
+            </rate>
+            <file id="file-22"/>
+          </clipitem>
+          <clipitem id="clipitem-2">
+            <masterclipid>master-clip-3</masterclipid>
+            <name>Justin.mp3 - 3 - null</name>
+            <enabled>TRUE</enabled>
+            <duration>956.088</duration>
+            <in>312.8</in>
+            <out>323.48</out>
+            <start>312.8</start>
+            <end>323.48</end>
+            <rate>
+              <timebase>1</timebase>
+            </rate>
+            <file id="file-22"/>
+          </clipitem>
+          <clipitem id="clipitem-3">
+            <masterclipid>master-clip-4</masterclipid>
+            <name>Justin.mp3 - 4 - null</name>
+            <enabled>TRUE</enabled>
+            <duration>956.088</duration>
+            <in>324.17</in>
+            <out>593.679</out>
+            <start>324.17</start>
+            <end>593.679</end>
+            <rate>
+              <timebase>1</timebase>
+            </rate>
+            <file id="file-22"/>
+          </clipitem>
+          <clipitem id="clipitem-4">
+            <masterclipid>master-clip-5</masterclipid>
+            <name>Justin.mp3 - 5 - null</name>
+            <enabled>TRUE</enabled>
+            <duration>956.088</duration>
+            <in>594.59</in>
+            <out>614.35</out>
+            <start>594.59</start>
+            <end>614.35</end>
+            <rate>
+              <timebase>1</timebase>
+            </rate>
+            <file id="file-22"/>
+          </clipitem>
+          <clipitem id="clipitem-5">
+            <masterclipid>master-clip-6</masterclipid>
+            <name>Justin.mp3 - 6 - null</name>
+            <enabled>TRUE</enabled>
+            <duration>956.088</duration>
+            <in>614.38</in>
+            <out>680.7</out>
+            <start>614.38</start>
+            <end>680.7</end>
+            <rate>
+              <timebase>1</timebase>
+            </rate>
+            <file id="file-22"/>
+          </clipitem>
+          <clipitem id="clipitem-6">
+            <masterclipid>master-clip-7</masterclipid>
+            <name>Justin.mp3 - 7 - null</name>
+            <enabled>TRUE</enabled>
+            <duration>956.088</duration>
+            <in>682.14</in>
+            <out>729.73</out>
+            <start>682.14</start>
+            <end>729.73</end>
+            <rate>
+              <timebase>1</timebase>
+            </rate>
+            <file id="file-22"/>
+          </clipitem>
+          <clipitem id="clipitem-7">
+            <masterclipid>master-clip-8</masterclipid>
+            <name>Justin.mp3 - 8 - null</name>
+            <enabled>TRUE</enabled>
+            <duration>956.088</duration>
+            <in>730.23</in>
+            <out>922.399</out>
+            <start>730.23</start>
+            <end>922.399</end>
+            <rate>
+              <timebase>1</timebase>
+            </rate>
+            <file id="file-22"/>
+          </clipitem>
+          <clipitem id="clipitem-8">
+            <masterclipid>master-clip-9</masterclipid>
+            <name>Justin.mp3 - 9 - null</name>
+            <enabled>TRUE</enabled>
+            <duration>956.088</duration>
+            <in>923.9</in>
+            <out>930.14</out>
+            <start>923.9</start>
+            <end>930.14</end>
+            <rate>
+              <timebase>1</timebase>
+            </rate>
+            <file id="file-22"/>
+          </clipitem>
+          <clipitem id="clipitem-9">
+            <masterclipid>master-clip-10</masterclipid>
+            <name>Justin.mp3 - 10 - null</name>
+            <enabled>TRUE</enabled>
+            <duration>956.088</duration>
+            <in>930.31</in>
+            <out>944.299</out>
+            <start>930.31</start>
+            <end>944.299</end>
+            <rate>
+              <timebase>1</timebase>
+            </rate>
+            <file id="file-22"/>
+          </clipitem>
+          <clipitem id="clipitem-10">
+            <masterclipid>master-clip-11</masterclipid>
+            <name>Justin.mp3 - 11 - null</name>
+            <enabled>TRUE</enabled>
+            <duration>956.088</duration>
+            <in>944.96</in>
+            <out>953.35</out>
+            <start>944.96</start>
+            <end>953.35</end>
+            <rate>
+              <timebase>1</timebase>
+            </rate>
+            <file id="file-22"/>
+          </clipitem>
+        </track>
+      </audio>
+    </media>
+    <uuid>mvvxar2ASt2vWPfKkfJGvw</uuid>
+    <duration>956.088</duration>
+    <name>Justin.mp3</name>
+    <rate>
+      <timebase>1</timebase>
+    </rate>
+    <marker>
+      <name>Speaker:</name>
+      <comment>Great. So one thing that we talked about was shifts in plant hardness, some sharp up and zone changes that are have occurred in the past 10 years and are projected to occur in the coming year. So I wondered if you might just talk a little bit about that when it comes to Iowa in particular. What what changes we've seen and what changes are expected?</comment>
+      <in>92.63</in>
+      <out>120.56</out>
+    </marker>
+    <marker>
+      <name>Speaker:</name>
+      <comment>Well, we've seen over the last if we go back to 1895 when federal records started. We have I have records for the state of Iowa going back one hundred and forty seven years, but we typically use those 1895 through present day as the official record. What we've seen per decade since 1895 is a tenth of a degree increase Fahrenheit over that one hundred twenty five years. So we're about a degree and two tenths above where we were in 1895. So we've seen a net warming across the state and across the Midwest, effectively across the mid latitude. We've seen our seasons are becoming warmer. Winters warmer, spring and summer are warmer. And what this does is it we've expanded the growing season, but our projections also show that in the future with enhanced warming, if we look back over the last 30 years, we've actually seen a tripling of the warming across the state of Iowa. So we're at three tenths of a degree over the last 30 years versus one tenth of a degree. Going back to 1895. So that is warming. Yeah. So that does you know, with the middle latitudes warming in the high latitudes, the Arctic warming at twice as fast. We do see a shift in hardiness zones for their polar. So further north. Got it. And those that those changes, if we if we look at grow crops, which Iowa is built for, corn, soybeans, we're actually seeing a shift. Word also of where corn and soybeans can be grown. So we're moving into further north for growing corn. If we look back in the late eighteen hundreds, we were actually growing wheat in Iowa. We don't grow wheat here in Moore, where corn and soybeans. Yeah. Has that has been a pronounced shift because Iowa is an agricultural state. And agriculture drives the economy. So we have seen a shift from one crop to another. Given soil conditions, especially after the Dust Bowl era, when drought, persistent drought, farmers had to change Edgefield practices. They had to change how they planted. They had to change how they harvest. And after those conditions. Corn and soybean really took off in the state of Iowa. So that's where we're seeing it with a warming mid latitude. So the general theme here is we're increasing the length of the growing season temperature wise. Now, with this, we don't include precipitation because we do see a seasonal shift in precipitation as well. And we can talk about that also. But yes, we have seen an increase in the length of the growing season, but also an expansion of where things can grow given warming nature of the atmosphere.</comment>
+      <in>121.43</in>
+      <out>312.05</out>
+    </marker>
+    <marker>
+      <name>Speaker:</name>
+      <comment>Got it. So, yeah. You anticipated my next question. In terms of precipitation, do you mind just talking a bit about that, especially as it relates to flooding?</comment>
+      <in>312.8</in>
+      <out>323.48</out>
+    </marker>
+    <marker>
+      <name>Speaker:</name>
+      <comment>Oh, yes. If we look at we have a physical. How do you see this? We have a warmer atmosphere, holds more water vapor. So with a warming atmosphere, as we just talked about, the atmosphere is able to hold more water vapor, more water vapor in the atmosphere. You're able or you're in enhancing your probabilities of having precipitation events, whether it's snowfall or rainfall during the warm season. What we've seen across the state, given that we've had an increase in the temperature, we have a physical relationship called the clouds clap or an equation that says if you raise the temperature one degree Fahrenheit, you have about a 4 percent increase in water vapor holding capacity. So long story short, warmer atmosphere, more water vapor, how that how that filters down into precipitation events is, again, you have more precipitation events. But we're also seeing over the last 30 years. An increase in the frequency and intensity of precipitation events. So we're getting you know, we would we would typically see across the state National Weather Service collapse stations one to two 24 hour events per year at two inches or above. So those would be our extreme rainfall events. What we've what we've seen recently over the last few decades are that these intensity, the intensity of these events are increasing. But we're also seeing them more frequently. So when we see these higher intending events over a shorter time period, we have a higher probability of having flash flooding. Now, given the nature of the precipitation events, increasing increasing subsoil moisture, increasing snowpack across the upper Midwest, that feeds into our river systems here in Iowa. We're one of the only states that have the eastern and western boundaries are major rivers in Missouri to our west than the Mississippi to our east. I'm in Des Moines, right in the middle. We have had it since 2011, three major floods, 2011, 2018, a few times just in March, April in south western Iowa, but also some aerial flooding in eastern Iowa along the Mississippi. And then we had 2008. So 2008, 2011 and then two thousand eighteen two thousand ninety. So we are seeing increasing probabilities of more flood events. Given the nature of precipitation that we're seeing across the state. Got it. And where this ties into temperature, besides the actual physical behavior that we're seeing, as I mentioned, that we've had an increase in the growing season in a climate model, projections have us increasing the growing season by nine to 10 days, moving into the 21st century, into the mid 21st century. What we're seeing seasonally, though, precipitation wise is that we're getting rainfall and snowfall earlier in the spring. Right. When we want to start fieldwork, we're also seeing an increase in precipitation rainfall in the middle of fall. So end of September, early October. Right. When we want to start harvest. Yeah. And then in between summertime, we're actually seeing our rainfall rates decreasing. So about the second week of July, the Fossett effectively turns off for three to four weeks. So we start to dry out and that's where we get into drought conditions or dryness concern. So even if we have an expansion of the growing season by nine or 10 days where we're receiving less rainfall in the summertime when the crop is maturing. So that could impact the physiological processes that we see in our crop, get them moving along for harvest time. Not to mention harvest time. We're having difficulties getting out in the field as we did this year and last year.</comment>
+      <in>324.17</in>
+      <out>593.679</out>
+    </marker>
+    <marker>
+      <name>Speaker:</name>
+      <comment>Right. That makes sense. So another thing that I talked about with the artists was endangered species in Iowa. So I think she might be able to talk a little bit about at risk species.</comment>
+      <in>594.59</in>
+      <out>614.35</out>
+    </marker>
+    <marker>
+      <name>Speaker:</name>
+      <comment>But some of these climate projections in terms of endangered species, I'm not that sure about, we might have to find another source for you. OK. But what I can say is that our climate model projections show that with warming, with warming in the mid latitudes, the United States, Iowa, we're seeing non-native pests start to move into the state. Got it. Like stink bugs and other types of insects that can wreak havoc on an agriculture. So we have seen of movement of non invasive species are invasive species that are not native to the Midwest. And I do think we see this increasing. I could send you contact information for the state entomologist, too. She works for the department agriculture as well. She might be able to give you a lot better information on invasive pests and possibly endangered species.</comment>
+      <in>614.38</in>
+      <out>680.7</out>
+    </marker>
+    <marker>
+      <name>Speaker:</name>
+      <comment>Yeah, that would be great. Great. And the last thing that we talked about or the last thing I want to ask about is the more, I guess, a reflective question. So with her work and a lot of people who she encounters and her family members are people who aren't convinced about climate change, a lot of them are farmers themselves. And, you know, they say they haven't seen the evidence in their lives. So I was just wondering kind of your thoughts about that around education and, you know, the sciences there. But just what you thought about, you know, the general consensus on the changing climate in Iowa.</comment>
+      <in>682.14</in>
+      <out>729.73</out>
+    </marker>
+    <marker>
+      <name>Speaker:</name>
+      <comment>Sure. I mean, when I give a presentations all across the state. Yeah. Spectrum of groups. Individuals know that the climate is becoming more variable. People understand that the weather is becoming more variable. We're getting colder, cold and warmer warms. And you have family farms in Iowa that have been around 100, 150 years. Those farmers have been on their lands for decades. They've seen changes. Farmers are very intuitive. Even if they don't want to use the climate change moniker to address what they're seeing in terms of changes in yield, changes in the the time of year in which they plant the changes in precipitation that they've seen, they realize that there's something changing in the system. And the adaptability aspect of it is something that comes up very often. Yeah, talking about things that farmers can use to adapt and mitigate some of these changes that they've seen, for example. No, till is a big thing here. No till allows you don't kill anything that you harvest. So it sits on top of the soil. It locks in that soil in case you get into heavy precipitation events that would runoff that soil. Another thing that we talk about, our cover crops, cover crops you plant after harvest or during harvest depending on the time of year. And those cover crops also act to lock in the soil with a secondary effect of actually locking in carbon. So it's a carbon sequestration tool as well. So the adaptation part is more topical with farmers that I've talked to than it is trying to, you know, explain to them, you know, you have greenhouse gases that do this, this and this. Yeah. Having a personal relationship with these farmers. You know, I'm a scientist, but again, farmers are intuitive. A lot of farmers know meteorology better than a lot of meteorologists. I have to meteorology degrees from us. So, yes, when you're when you're talking to these groups, you tell them, you show them the observations. You show them that these observations are fact base based and they're showing us that we're gradually warming across the state. This means we're getting more water vapor in the atmosphere. This means we're getting more rainfall events. And then when you show them the facts and you link all that, all those things together, then they start to understand that, yes, what they're seeing is a change in the climate system. And these are the tools that they can use to help adapt and mitigate. And I mean, that's I think those those type of presentations that I give really do resonate with the majority of the people I talk with, especially at I bet that makes a lot of sense.</comment>
+      <in>730.23</in>
+      <out>922.399</out>
+    </marker>
+    <marker>
+      <name>Speaker:</name>
+      <comment>Great. Well, thank you so much for taking the time to go through all that. Those are the main questions that I had.</comment>
+      <in>923.9</in>
+      <out>930.14</out>
+    </marker>
+    <marker>
+      <name>Speaker:</name>
+      <comment>All right, Kate, you're a great screening that if you need any additional information, I'll send you some contact information. And yeah, if we need to do any kind of secondary stuff, please give me a call and we'll do that.</comment>
+      <in>930.31</in>
+      <out>944.299</out>
+    </marker>
+    <marker>
+      <name>Speaker:</name>
+      <comment>Yeah, will do. OK, great. Well thanks much. Yeah. Be sure to follow up. Absolutely. Thanks. Thanks. Bye bye.</comment>
+      <in>944.96</in>
+      <out>953.35</out>
+    </marker>
+  </sequence>
+</xmeml>

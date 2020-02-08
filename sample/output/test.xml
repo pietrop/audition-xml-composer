@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xmeml version="5">
+  <sequence id="sequence-0">
+    <media>
+      <audio>
+        <format>
+          <samplecharacteristics>
+            <depth>3</depth>
+            <samplerate>44100</samplerate>
+          </samplecharacteristics>
+        </format> 
+        <track>       
+            <clipitem id="clipitem-0">
+      <masterclipid>master-clip-1</masterclipid>
+      <name>Justin.mp3 - 1</name>
+      <enabled>TRUE</enabled>
+      <duration>40</duration>
+      <in>10</in>
+      <out>20</out>
+      <start>0</start>
+      <end>10</end>
+      <rate>
+        <timebase>1</timebase>
+      </rate>
+      <file id="file-0">
+      <media>
+        <audio>
+        <samplecharacteristics>
+            <depth>3</depth>
+            <samplerate>44100</samplerate>
+        </samplecharacteristics>
+        <channelcount>1</channelcount>
+        </audio>
+      </media>
+      <name>Justin.mp3</name>
+      <duration>40</duration>
+      <pathurl>Justin.mp3</pathurl>
+      <rate>
+        <timebase>1</timebase>
+      </rate>
+    </file>
+  </clipitem>
+  <clipitem id="clipitem-1">
+      <masterclipid>master-clip-2</masterclipid>
+      <name>Justin.mp3 - 2</name>
+      <enabled>TRUE</enabled>
+      <duration>40</duration>
+      <in>45</in>
+      <out>55</out>
+      <start>10</start>
+      <end>30</end>
+      <rate>
+        <timebase>1</timebase>
+      </rate>
+      <file id="file-1">
+      <media>
+        <audio>
+        <samplecharacteristics>
+            <depth>3</depth>
+            <samplerate>44100</samplerate>
+        </samplecharacteristics>
+        <channelcount>1</channelcount>
+        </audio>
+      </media>
+      <name>Justin.mp3</name>
+      <duration>40</duration>
+      <pathurl>Justin.mp3</pathurl>
+      <rate>
+        <timebase>1</timebase>
+      </rate>
+    </file>
+  </clipitem>
+  <clipitem id="clipitem-2">
+      <masterclipid>master-clip-3</masterclipid>
+      <name>Justin.mp3 - 3</name>
+      <enabled>TRUE</enabled>
+      <duration>40</duration>
+      <in>45</in>
+      <out>55</out>
+      <start>30</start>
+      <end>70</end>
+      <rate>
+        <timebase>1</timebase>
+      </rate>
+      <file id="file-2">
+      <media>
+        <audio>
+        <samplecharacteristics>
+            <depth>3</depth>
+            <samplerate>44100</samplerate>
+        </samplecharacteristics>
+        <channelcount>1</channelcount>
+        </audio>
+      </media>
+      <name>Justin.mp3</name>
+      <duration>40</duration>
+      <pathurl>Justin.mp3</pathurl>
+      <rate>
+        <timebase>1</timebase>
+      </rate>
+    </file>
+  </clipitem>
+  <clipitem id="clipitem-3">
+      <masterclipid>master-clip-4</masterclipid>
+      <name>thirdSpeaker.mp3 - 4</name>
+      <enabled>TRUE</enabled>
+      <duration>40</duration>
+      <in>65</in>
+      <out>75</out>
+      <start>70</start>
+      <end>150</end>
+      <rate>
+        <timebase>1</timebase>
+      </rate>
+      <file id="file-3">
+      <media>
+        <audio>
+        <samplecharacteristics>
+            <depth>3</depth>
+            <samplerate>44100</samplerate>
+        </samplecharacteristics>
+        <channelcount>1</channelcount>
+        </audio>
+      </media>
+      <name>thirdSpeaker.mp3</name>
+      <duration>40</duration>
+      <pathurl>thirdSpeaker.mp3</pathurl>
+      <rate>
+        <timebase>1</timebase>
+      </rate>
+    </file>
+  </clipitem>
+        </track>
+     </audio>
+    </media>
+    <uuid>ck6czuddu0000sp6oblek05u9</uuid>
+    <duration>40</duration>
+    <name>Demo Title of project</name>
+    <rate>
+        <timebase>1</timebase>
+    </rate>
+    <marker>
+    <name>Justing</name>
+    <comment>sample text</comment>
+    <in>0</in>
+    <out>10</out>
+  </marker>
+<marker>
+    <name>John</name>
+    <comment>some other text</comment>
+    <in>10</in>
+    <out>30</out>
+  </marker>
+<marker>
+    <name>justin</name>
+    <comment>some text</comment>
+    <in>30</in>
+    <out>70</out>
+  </marker>
+<marker>
+    <name>Third</name>
+    <comment>Third Speaker text</comment>
+    <in>70</in>
+    <out>150</out>
+  </marker>
+</sequence>
+</xmeml>

@@ -1,0 +1,53 @@
+{
+    "title": "Demo Title of project",
+    "events":  [
+      { 
+        "id":1,
+        "startTime": 10, 
+        "endTime": 20,
+        "reelName":"SomeReelName",
+        "clipName":"Justin.mp3",
+        "offset": "00:00:28:08",
+        "fps": 25,
+        "sampleRate": 44100,
+        "speaker": "Justing",
+        "text": "sample text"
+      },
+      { 
+        "id":2,
+        "startTime": 45,
+        "endTime": 55,
+        "reelName":"SomeOtherReelName",
+        "clipName":"Justin.mp3",
+        "offset": "00:00:28:08",
+        "fps": 25,
+        "sampleRate": 44100,
+        "speaker": "John",
+        "text": "some other text"
+      },
+    { 
+        "id":2,
+        "startTime": 45,
+        "endTime": 55,
+        "reelName":"NA",
+        "clipName":"Justin.mp3",
+        "offset": "00:00:28:08",
+        "fps": 25,
+        "sampleRate": 44100,
+        "speaker": "justin",
+        "text": "some text"
+      },
+      { 
+        "id":3,
+        "startTime": 65,
+        "endTime": 75,
+        "reelName":"NA",
+        "clipName":"thirdSpeaker.mp3",
+        "offset": "00:00:28:08",
+        "fps": 25,
+        "sampleRate": 44100,
+        "speaker": "Third",
+        "text": "Third Speaker text"
+      }
+    ]
+}

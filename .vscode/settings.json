@@ -1,0 +1,8 @@
+{
+	"eslint.workingDirectories": [
+		{ 
+			"directory": "audition-xml-composer", 
+			"changeProcessCWD": true
+		}
+	]
+}
