@@ -31,6 +31,13 @@
         </samplecharacteristics>
         <channelcount>1</channelcount>
         </audio>
+        <audio>
+        <samplecharacteristics>
+            <depth>3</depth>
+            <samplerate>44100</samplerate>
+        </samplecharacteristics>
+        <channelcount>2</channelcount>
+        </audio>
       </media>
       <name>Justin.mp3</name>
       <duration>40</duration>
@@ -60,6 +67,13 @@
             <samplerate>44100</samplerate>
         </samplecharacteristics>
         <channelcount>1</channelcount>
+        </audio>
+        <audio>
+        <samplecharacteristics>
+            <depth>3</depth>
+            <samplerate>44100</samplerate>
+        </samplecharacteristics>
+        <channelcount>2</channelcount>
         </audio>
       </media>
       <name>Justin.mp3</name>
@@ -91,6 +105,13 @@
         </samplecharacteristics>
         <channelcount>1</channelcount>
         </audio>
+        <audio>
+        <samplecharacteristics>
+            <depth>3</depth>
+            <samplerate>44100</samplerate>
+        </samplecharacteristics>
+        <channelcount>2</channelcount>
+        </audio>
       </media>
       <name>Justin.mp3</name>
       <duration>40</duration>
@@ -121,6 +142,13 @@
         </samplecharacteristics>
         <channelcount>1</channelcount>
         </audio>
+        <audio>
+        <samplecharacteristics>
+            <depth>3</depth>
+            <samplerate>44100</samplerate>
+        </samplecharacteristics>
+        <channelcount>2</channelcount>
+        </audio>
       </media>
       <name>thirdSpeaker.mp3</name>
       <duration>40</duration>
@@ -133,7 +161,7 @@
         </track>
      </audio>
     </media>
-    <uuid>ck6czuddu0000sp6oblek05u9</uuid>
+    <uuid>ck6h1whjk0000ys6ohlmk52kl</uuid>
     <duration>40</duration>
     <name>Demo Title of project</name>
     <rate>
